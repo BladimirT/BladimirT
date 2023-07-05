@@ -1,7 +1,7 @@
 
 <h2 align="center">Puedes encontrarme en :alien:</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/tetza-code/"> linkedin</a>
 </p>
 
