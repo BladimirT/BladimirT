@@ -2,7 +2,9 @@
 <h2 align="center">Puedes encontrarme en :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tetza-code/"> linkedin</a>
+  <a href="https://www.linkedin.com/in/tetza-code/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir Tetzaguic, perfil de linkdin" height="30" width="30">
+  </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirT)](https://github.com/anuraghazra/github-readme-stats)
