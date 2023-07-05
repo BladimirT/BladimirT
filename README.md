@@ -10,7 +10,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirT&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirT)](https://github.com/anuraghazra/github-readme-stats)
-
-[![BladimirT's GitHub stats](https://github-readme-stats.vercel.app/api?username=BladimirT)](https://github.com/anuraghazra/github-readme-stats)
