@@ -32,8 +32,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png](https://icons8.com/icon/QBqFNfPPB2Kx/sass"/></a>
-<img height=35px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-
+<a src="https://www.w3schools.com/css/"><img height=35px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg">
+<img height=50px src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+<img height=50px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%"/>
