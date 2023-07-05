@@ -7,6 +7,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### actualmente desarrollador FreeLancer.
 
 <br />
+<br />
+
 <h2 align="center">Puedes encontrarme en :alien:</h2>
 
 <p align="center">
