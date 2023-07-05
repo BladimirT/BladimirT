@@ -1,7 +1,7 @@
 <h1 align="center">Hola Mundo, Soy <a href="https://www.blackcater.win/" target="_blank">Bladimir Tetzaguic</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
+Hola, Soy Bladimir, entusiasta de la tecnología, soy de Guatemala, actualmente soy desarrollador freelances de páginas web. 
 
 
 <h2 align="center">Puedes encontrarme en :alien:</h2>
