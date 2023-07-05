@@ -1,6 +1,6 @@
-# Angel Jaime
+# Bladimir Tetzaguic
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre mi</h2>
 
 ```golang
 package main
