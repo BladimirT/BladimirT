@@ -24,6 +24,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </a>
 </p>
 
+#### 👨🏻‍💻 Currently working on:
+
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png](https://icons8.com/icon/QBqFNfPPB2Kx/sass"/></a>
+<img height=35px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%"/>
 </p>
+
