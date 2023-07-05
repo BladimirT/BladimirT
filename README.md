@@ -11,5 +11,5 @@
   
 </p>
 
-![Bladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=tokyonight)
+![Bladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=merko)
 
