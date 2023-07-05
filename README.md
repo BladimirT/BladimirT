@@ -12,10 +12,6 @@ Hola, Soy Bladimir, entusiasta de la tecnología, soy de Guatemala, actualmente 
   </a>
 </p>
 
-<br />
-<p>Hola soy Bladimir</p>
-<br />
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200  src="https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=radical" />
