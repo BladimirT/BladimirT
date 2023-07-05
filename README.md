@@ -11,6 +11,5 @@
   
 </p>
 
-<p align="center">
 ![Bladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=tokyonight)
-</p>
+
