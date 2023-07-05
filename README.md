@@ -1,2 +1,2 @@
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">Puedes encontrarme en :alien:</h2>
