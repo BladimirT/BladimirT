@@ -3,6 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hola, Soy Bladimir, entusiasta de la tecnología, soy de Guatemala 🇬🇹, actualmente soy desarrollador freelances de páginas web. 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h2 align="center">Puedes encontrarme en :alien:</h2>
 
@@ -14,10 +15,10 @@ Hola, Soy Bladimir, entusiasta de la tecnología, soy de Guatemala 🇬🇹, act
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200  src="https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=radical" />
+    <img height=160  src="https://github-readme-stats.vercel.app/api?username=BladimirT&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirT&langs_count=10&theme=tokyonight&layout=compact" />
+    <img height=160  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BladimirT&langs_count=10&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
