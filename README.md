@@ -24,7 +24,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </a>
 </p>
 
-#### 👨🏻‍💻 Actualmente trabajon con:
+#### 👨🏻‍💻 Actualmente trabajo con:
 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
