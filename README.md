@@ -41,6 +41,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img height=50px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 </p>
 
+<h3 align="center">👀👀</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/BladimirT/count.svg" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%"/>
 </p>
