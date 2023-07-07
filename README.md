@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### Hola, Soy Bladimir, entusiasta de la tecnología, 
-### soy orgullosamente guatemalteco ❤️ 🇬🇹🇬🇹, 
+### soy orgullosamente guatemalteco ❤️, 
 ### actualmente desarrollador FreeLancer.
 
 <br />
